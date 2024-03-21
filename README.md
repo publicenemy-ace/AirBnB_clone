@@ -73,5 +73,3 @@ Here are some examples of using the command interpreter:
 ```bash
 (destroy) Review 5678-5678-5678
 ```
-
-Feel free to explore more commands and functionalities by referring to the documentation or using the `help` command within the interpreter. Enjoy using the Airbnb clone CLI!
